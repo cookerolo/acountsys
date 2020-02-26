@@ -2,7 +2,7 @@
 
 Account System demo built with Django Rest Framework and React
 
-## Installation
+## Setup
 #### For the backend
 ```
 pipenv install
