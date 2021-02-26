@@ -1,6 +1,6 @@
 ## Account System Demo
 
-Account System demo built with Django Rest Framework and React
+Account System demo built with Django Rest Framework and React for a Technical Test Assignment
 
 ## Setup
 #### For the backend
