@@ -11,7 +11,7 @@ cd backend
 python manage.py migrate
 python manage.py runserver
 ```
-#### For the backend
+#### For the frontend
 ```
 cd frontend
 npm install
